@@ -12,8 +12,8 @@ import javax.mail.internet.MimeMessage;
 /** * @author Armando */
 public class EmailSender {
     
-    private static final String user    = "ProgrammerWebBlog@gmail.com";
-    private static final String pass    = "BlogWebProgrammer";
+    private static final String user    = "null";
+    private static final String pass    = "null";
     private static final String host    = "smtp.gmail.com";
     private static Properties properties; 
     private static Session emailSession;
